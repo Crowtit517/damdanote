@@ -15,6 +15,7 @@
 ![Server](https://img.shields.io/badge/운영_서버-없음-e8708a)
 ![Finance](https://img.shields.io/badge/금융_연동-없음-f0a33a)
 [![Release](https://img.shields.io/github/v/release/Crowtit517/damdanote?label=최신&color=555)](https://github.com/Crowtit517/damdanote/releases/latest)
+[![License](https://img.shields.io/badge/license-무단_복제_금지-e8708a)](LICENSE)
 
 **[📥 설치](#-설치하기) · [👀 화면](#-한눈에-보기) · [✨ 기능](#-이런-걸-할-수-있어요) · [🔐 내 기록](#-내-기록은-어디에) · [❓ 자주 묻는 질문](#-자주-묻는-질문) · [🛠 만든 과정](#-만든-과정-묻고-정하고-고쳤다)**
 
@@ -245,5 +246,7 @@ damdanote/
 AI는 고치기 전에 먼저 묻고, 결정은 문서로 남기는 규칙([CLAUDE.md](CLAUDE.md))을 따랐습니다.
 
 <sub>담다 · 하루를 담는 기록장 &nbsp;·&nbsp; [개인정보처리방침](https://crowtit517.github.io/damdanote/privacy.html) &nbsp;·&nbsp; [문의 (GitHub 이슈)](https://github.com/Crowtit517/damdanote/issues)</sub>
+
+<sub>© 2026 Crowtit517. 무단 복제·재배포를 금지합니다. 자세한 내용은 [LICENSE](LICENSE) 참고.</sub>
 
 </div>
